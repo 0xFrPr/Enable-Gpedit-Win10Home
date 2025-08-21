@@ -1,4 +1,5 @@
-# Enable Group Policy Editor (gpedit.msc) on Windows 10 Home by 0xFrPr
+# Enable Group Policy Editor (gpedit.msc) on Windows 10 Home 
+Author : 0xFrPr
 
 ##  Overview
 By default, **Windows 10 Home** does not include the Local Group Policy Editor (`gpedit.msc`).  
