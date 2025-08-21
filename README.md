@@ -25,7 +25,7 @@ This script enables the hidden Group Policy packages using **DISM**, so that you
 
 ---
 
-## ⚠ Notes
+## Notes
 - Works only on **Windows 10 Home (64-bit)**.
 - Must be executed with **Administrator privileges**.
 - Package names may vary depending on your **Windows build**.  
